@@ -1,10 +1,11 @@
-### Привет 👋
+### Привет, я Алексей 👋
 
-#### Меня зовут Алексей. Я Python-разработчик.
+#### Пишу на:
+- Python3
 
-#### Используемый стек технологий:
+#### Используемый стек:
 
-Python3, Django, Django REST-framework, ООП, SQL, PostgreSQL, Git, Linux, Docker, Docker-compose, Nginx
+Django|Django REST-framework|ООП|SQL|PostgreSQL|Git|Linux|Docker|Docker-compose|Nginx
 
 ### Свяжитесь со мной
 <a href="http://t.me/alxshvalev/"><img src="https://img.shields.io/badge/Telegram-gray"></a>
